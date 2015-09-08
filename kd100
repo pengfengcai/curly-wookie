@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Channels>
+    <Version>1.0.3</Version>
+    <isClearFavCh>0</isClearFavCh>
+    <isClearRecentCh>0</isClearRecentCh>
+    <isClearCustomCh>0</isClearCustomCh>
+    <isEncrypt>1</isEncrypt>
+    <relatedChannelInfoURL>http://www.bing.com</relatedChannelInfoURL>
+    <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
+    <convertURLEngineConfigV>1.7.1</convertURLEngineConfigV>
+    <bufferTime4Reload>10</bufferTime4Reload>
+    <reloadTime>10</reloadTime>
+    <nofreshTime>20</nofreshTime>
+    <loadOpenAdRate_ip>0</loadOpenAdRate_ip>
+    <loadOpenAdRate_ipad>0</loadOpenAdRate_ipad>
+    <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
+    <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
+    <useConfigRate>15,70,15</useConfigRate>
+    <isOpenLoadConfig>1</isOpenLoadConfig>
+    <Appstate>0</Appstate>
+    <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
+    <playerlistURL_header>JvHeyBHCt2Wu3iyL9O/UwuGlJi/VPA0lPTU2gBYGMGuvaC9DX+H3+hnTquYA6k2V7qwsT2M9UebPf+9zd62tbQ==</playerlistURL_header>
+    <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
+
+    <Ads>
+        <AdsRate Name="AdsMogo">1</AdsRate>
+        <AdsRate Name="AdsMobiSage">0</AdsRate>
+        <AdsRate Name="SegIndex">0</AdsRate>
+        <AdsRate Name="FullAdFrequency">15</AdsRate>
+        <AdsRate Name="FullAdFrequency_ip">10</AdsRate>
+    </Ads> <supportFormat>3gp,asf,avi,divx,dv,dat,flv,gxf,m2p,m2ts,m2v,m4v,mkv,moov,mov,mp4,mp3,mpeg,mpeg1,mpeg2,mpeg4,mpg,mpv,mt2s,mts,mxf,ogm,ogv,ps,qt,rm,rmvb,ts,vob,webm,wm,wmv,h264,rm</supportFormat>
+    <supportWifiTransfter>0</supportWifiTransfter>
+    <supportNotWifi>1</supportNotWifi>
+    <Tips>
+        <appVersion>1.0.1</appVersion>
+        <info>
+            <valid>0</valid>
+            <frequency>99999</frequency>
+            <link>https://itunes.apple.com/app/id991675873</link>
+            <word>如果你觉得此应用不错，前去appstore评分？</word>
+        </info>
+    </Tips>
+    
+        <Channel name="热门" type="1">
+            <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视" type="1" l="hunan,hunan">
+                <streamURL ptag="1">http://live.aishang.ctlcdn.com/live/ch185_10240008.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视" type="1" l="zhejiang,zhejiang">
+                <streamURL ptag="1">http://219.232.160.143:5080/hls/79f11bbdc29595b03cde2c26c8e64f1d.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视" type="1" l="dongfang,dongfang">
+                <streamURL>http://live-cdn1.kksmg.com/channels/tvie/xn_dfws/m3u8:sd</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-jstv1.png" name="江苏卫视" type="1" l="jiangsu,jiangsu">
+                <streamURL ptag="1">http://219.232.160.143:5080/hls/2ae90f52c9d90a319d6dcaadeb49844a.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视" type="1" l="anhui,anhui">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100104700&amp;ostype=ios</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-szmg1.png" name="深圳卫视" type="2" l="shenzhen,shenzhen">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100003600&amp;ostype=ios</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-ctv1.png" name="重庆卫视" type="1" l="chongqing,chongqing">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100002100&amp;ostype=ios</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="央视" type="2">
+            
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-综合" type="1" l="cctv1,cctv1">
+                <streamURL ptag="1">http://14.204.84.49:65532/live/yangshizonghe-sd/chunklist.m3u8</streamURL>
+            </SubChannel>
+            
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV13-新闻" type="1" l="cctv13,cctv13">
+                <streamURL ptag="3">http://vdn.apps.cntv.cn/api2/liveHtml5.do?channel=pa://cctv_p2p_hdcctv13</streamURL>
+            </SubChannel>
+            
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV2-财经" type="1" l="cctv2,cctv2">
+                <streamURL ptag="3">http://vdn.apps.cntv.cn/api2/liveHtml5.do?channel=pa://cctv_p2p_hdcctv2</streamURL>
+            </SubChannel>
+            
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-综艺" type="1" l="cctv3,cctv3">
+                <streamURL ptag="1">http://14.204.84.49:65532/live/yangshizongyi-sd/chunklist.m3u8</streamURL>
+            </SubChannel>
+            
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV4-国际亚洲" type="1" l="cctv4,cctv4">
+                <streamURL ptag="1">http://live.aishang.ctlcdn.com/live/ch139_10240005.m3u8</streamURL>
+            </SubChannel>
+            
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV6-电影" type="1" l="cctv6,cctv6">
+                <streamURL>http://221.181.100.53:8088/QO7c4cv8hVoT8jFEEIbDE8vBHqcR7WQGTce32q6lNkOrVbK9vwt8n4nwZ83SDtmzanaoM2oboghZvYxZ5N20p/xNr1jrxPl6UzWrlLSPtI6AjfJDPkJYR493cqyzrJZzBQGw629lbUnEyrYjZH/c2zzwUt/d9%20iFF7xrH%20DU%20eSMcib1gyfTMA6LXFPQQyyPGc53aNFhLfjCX/U1OBfCB4A9asJ20dUv%20KfkwdYpbM4=/cctv6_49.sdp.m3u8?ec=1</streamURL>
+            </SubChannel>
+            
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV7-军事农业" type="1" l="cctv7,cctv7">
+                <streamURL ptag="1">http://58.135.196.138:8090/live/a9a97bed07eca008a1c88c9d7c74965d/index.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV8-电视剧" type="1" l="cctv8,cctv8">
+                <streamURL ptag="3">http://vdn.apps.cntv.cn/api2/liveHtml5.do?channel=pa://cctv_p2p_hdcctv8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV9-纪录" type="1" l="cctvjilu,cctv9">
+                <streamURL ptag="1">http://live.aishang.ctlcdn.com/live/ch143_10240014.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV10-科教" type="1" l="cctv10,cctv10">
+                <streamURL>http://175.31.215.152:9009/live/chid=4</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV11-戏剧" type="1" l="cctv11,cctv11">
+                <streamURL ptag="1">http://hls.cmvideo.cn:8088/fBf/KOhaK+JEslLNbH1wt7XwpSrSyO2gL2sblCh5MLuYMOTjdAECsam0VaoasHTxJOfH375P2idaDwfP62PoWTMtBf9QvGNtX6jSSSH01QnIXOUWKNPM8uDglEY4P3u6y4gXFggvT/pwJM2XB0NUeEjdwom44XgE/TnIBJuB5JJiaizW3vV3unrwAttsctez0NVF9ffigGbVfagWIpOFukL4MprIqvEgCL5Y/KSJUzKcP5BxZUJ7IpFVUh+9nSiv/cctv11_49.sdp.m3u8?ec=1</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV12-社会与法" type="1" l="cctv12,cctv12">
+                <streamURL ptag="1">http://hls.cmvideo.cn:8088/2JwDg9RlQAv9r4kEeRfquTBM9W9pgdtPlv1HAh8wNE908muKefyb7OXTXH/G3sseicYRxQd481oxhVEW07fOwsWPn9LLcRDNDkYtxzyjtnCgDecPycCUtkzcI7FgW7TDT//TC/75Jg5PfYIZ8gmcwGUPUOtUm6gvzR8DqdaZVNNg9p4QMtCagpsMMeCgkxsKIFsm5U4OUkOjXIsm0K2R3+gYFLSrQe2FZ60dWIGLLL4=/cctv12_49.sdp.m3u8?ec=1</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV14-少儿" type="1" l="cctvchild,cctvchild">
+                <streamURL ptag="1">http://hls.cmvideo.cn:8088/jmYPGh7Yj1KYSGLJZKR3k4PamGSvQao+fGAnxOFoI5+DVe1H4Rh+1AqVBRsZeJN1DTfe481F7TQ1rSKBiCslT7V07+eqO9Elgx+JnSNOkY7Dddd78LfLkiDsdKUXa9aVvUl+ewdGFu6gbgI5dj9kY4i3WNgH/8EeHpnPU9U4dNbJI473WwwhL5qGCRvq9iqAZAKhNatfX8ilTuEtuXY7QCHn/IkPr9E0bf7cR4eUUXsRUPKalaqfYc8+faIzGXO6/cctv14_49.sdp.m3u8?ec=1</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV15-音乐" type="1" l=",cctv15">
+                <streamURL ptag="1">http://hls.cmvideo.cn:8088/AAGvv6URbwNcWG9tTVo7GBPKtmNRzW3Ug6Ydp2ZrkXQfuC1jjyOpntr7t933e/5cK92TvLulJo0gplnhzpO3rKD9hGdwIKROhTmfusws3K+Ixyrzbl8BfJSry1f7yUdc5ebFdnER/gQzp2yD/J1a67HkvAdVkwwmwil6Lb6p+2o+kglswa1qF4zCn3S+jNV7Hkse3nZd5srA8g3Jkx/Tvo4uyHr0FijjWTxf8iAoTzZjRDPXpw8y1yFlovLTD3Wi/cctv15_49.sdp.m3u8?ec=1</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV中学生" type="1" l="zhongxuesheng,zhongxuesheng">
+                <streamURL>http://gslb.tv.sohu.com/live?cid=11&amp;type=hls</streamURL>
+                <streamURL>http://ams.studytv.cn/hls-live/livepkgr/_definst_/liveevent/264.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://i2.itc.cn/20090511/749_51e5dd41_5993_4db3_a514_6d7839bdbf7e_0.jpg" name="中国气象频道" type="1" l=",cctvqixiang">
+                <streamURL>http://cdn-cc-mywtv-060.video.mywtv.cn/live/81701169738547200_133629312917045250_500k_live/m3u8/rendition.m3u8</streamURL>
+                <streamURL>http://szws.17kds.net:5080/hls/29236636460b82032853fc991b9b6935.m3u8</streamURL>
+                <streamURL>http://topsztv.yuntutv.net:5080/hls/29236636460b82032853fc991b9b6935.m3u8</streamURL>
+                <streamURL>http://219.232.160.143:5080/hls/29236636460b82032853fc991b9b6935.m3u8</streamURL>
+            </SubChannel>
+        </Channel>
+        <Channel name="北京" type="3">
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="BTV 卫视" type="1" l="btv1,btv1">
+                <streamURL>http://113.207.58.12:5371/wtvlive/wasu/beijing</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="BTV 新闻" type="8" l="btv9,btv9">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=bjxw&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1004&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="BTV 影视" type="5" l="btv5,btv5">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=bjys&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1004&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="BTV 财经" type="4" l="btv4,btv4">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=bjcj&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1004&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="BTV 文艺" type="2" l="btv2,btv2">
+                <streamURL>http://gslb.tv.sohu.com/live?cid=222624&amp;type=hls</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="BTV 科教" type="3" l="btv3,btv3">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=bjkj&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1004&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="BTV 生活" type="7" l="btv7,btv7">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=bjsh&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1004&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="BTV 青年" type="8" l="btv8,btv8">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=bjqn&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1004&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="BTV 纪实" type="8" l=",btvjishi">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=bjjsHD_800&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1002&amp;tm=10&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/kaku.ico" name="卡酷动画" type="9" l=",btvchild">
+                <streamURL>http://58.135.196.138:8090/live/543E9B8D048648e399E66EA338EF761C/index.m3u8</streamURL>
+                <streamURL>http://115.28.23.126:9001/a/btv.php?src=btv&amp;tvn=bjkk</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        
+        <Channel name="上海" type="4">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视" type="1" l="dongfang,">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100101300&amp;ostype=ios</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://www.vartcn.com/sucai/UploadFiles_8407/200901/2009011520183814_S.jpg" name="上海新闻综合" type="2" l="shnews,shnews">
+                <streamURL>http://gslb.tv.sohu.com/live?cid=2&amp;type=hls</streamURL>
+                <streamURL ptag="1">http://live-cdn1.kksmg.com/channels/tvie/xwzh/m3u8:sd</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="天津" type="5">
+            
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津卫视" type="1" l="tianjin,tianjin">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100003900&amp;ostype=ios</streamURL>
+                <streamURL>http://gslb.tv.sohu.com/live?cid=222611&amp;type=hls</streamURL>
+                <streamURL>http://live.3gv.ifeng.com/CQWS.m3u8</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="重庆" type="6">
+            
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-ctv1.png" name="重庆卫视" type="1" l="chongqing,chongqing">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100002100&amp;ostype=ios</streamURL>
+            </SubChannel>
+        </Channel>
+        <Channel name="广东" type="7">
+            
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-guangdongnews1.png" name="广东卫视" type="1" l="guangdong,guangdong">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100104501&amp;ostype=ios</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-szmg1.png" name="深圳卫视" type="2" l="shenzhen,shenzhen">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100003600&amp;ostype=ios</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://www.rologo.com/images/uploads/2009/10/gztv.jpg" name="广州新闻" type="14" l=",guangzhouxinwen">
+                <streamURL>http://116.199.115.228/streaming/XpxvPPVTIm/XpxvPPVTIm.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/guangzhouyingshi.ico" name="广州经济" type="14" l=",guangzhoujingji">
+                <streamURL>rtmp://116.199.115.228/live/gztv_jingji</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/guangzhouyingshi.ico" name="广州少儿" type="14" l=",guangzhoushaoer">
+                <streamURL>rtmp://116.199.115.228/live/gztv_shaoer</streamURL>
+                
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/guangzhouyingshi.ico" name="广州生活" type="14" l=",guangzhouxinwen">
+                <streamURL>rtmp://116.199.115.228/live/gztv_en</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="" name="潮州综合" type="13" l="cztv1,cztv1">
+                <streamURL>http://125.91.226.137/ts/cztv1.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="" name="潮州公共" type="13" l="cztv2,cztv2">
+                <streamURL>http://125.91.226.137/ts/cztv2.m3u8</streamURL>
+            </SubChannel>
+        </Channel>
+        <Channel name="浙江" type="10">
+            
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视" type="1" l="zhejiang,zhejiang">
+                <streamURL>http://v.l.cztv.com:554/zjtv01/live/chunklist.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://tv.togic.com:8080/ShowTimeService/images/ningbo.png" name="宁波新闻综合" type="5" l="nbtv1,nbtv1">
+                <streamURL>rtmp://zb.nbtv.cn/livepkgr/nbtv1_1</streamURL>
+                <streamURL>http://zb.nbtv.cn:8134/hls-live/livepkgr/_definst_/liveevent/nbtv1_1.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://tv.togic.com:8080/ShowTimeService/images/ningbo.png" name="宁波影视" type="5" l="nbtv4,nbtv4">
+                <streamURL>rtmp://zb.nbtv.cn/livepkgr/nbtv4_1</streamURL>
+                <streamURL>http://zb.nbtv.cn:8134/hls-live/livepkgr/_definst_/liveevent/nbtv4_1.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://tv.togic.com:8080/ShowTimeService/images/ningbo.png" name="宁波社会生活" type="5" l="nbtv2,nbtv2">
+                <streamURL>rtmp://zb.nbtv.cn/livepkgr/nbtv2_1</streamURL>
+                <streamURL>http://zb.nbtv.cn:8134/hls-live/livepkgr/_definst_/liveevent/nbtv2_1.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://tv.togic.com:8080/ShowTimeService/images/ningbo.png" name="宁波文化娱乐" type="5" l="nbtv3,nbtv3">
+                <streamURL>rtmp://zb.nbtv.cn/livepkgr/nbtv3_1</streamURL>
+                <streamURL>http://zb.nbtv.cn:8134/hls-live/livepkgr/_definst_/liveevent/nbtv3_1.m3u8</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://tv.togic.com:8080/ShowTimeService/images/ningbo.png" name="宁波少儿" type="5" l="nbtv5,nbtv5">
+                <streamURL>rtmp://zb.nbtv.cn/livepkgr/nbtv5_1</streamURL>
+                <streamURL>http://zb.nbtv.cn:8134/hls-live/livepkgr/_definst_/liveevent/nbtv5_1.m3u8</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="江苏" type="8">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-jstv1.png" name="江苏卫视" type="1" l="jiangsu,jiangsu">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=jiangsuHD_800&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1004&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="安徽" type="28">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视" type="1" l="anhui,anhui">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100104700&amp;ostype=ios</streamURL>
+                <streamURL>http://219.232.160.143:5080/hls/6f3c16428bf06033aeb7e944000ee639.m3u8</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="河北" type="33">
+            
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/hebeiweishi.ico" name="河北卫视" type="1" l="hebei,hebei">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=hebei&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1004&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="河南" type="14">
+            
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-henantv1.png" name="河南卫视" type="1" l="henan,henan">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100105400&amp;ostype=ios</streamURL>
+                <streamURL>http://gslb.tv.sohu.com/live?cid=19&amp;type=hls</streamURL>
+                <streamURL>http://219.232.160.132/applelive/639fe1fe6b874535e2ecf82d4ca432c5.m3u8</streamURL>
+                <streamURL>http://live.hntv.tv/channels/tvie/video_channel_01/m3u8:hntv1_apple_200k/live</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="山东" type="9">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-shandong1.png" name="山东卫视" type="1" l="shandong,shandong">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=shandong_350&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1004&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+        </Channel>
+        <Channel name="四川" type="23">
+            <SubChannel iconURL="http://images.cnblogs.com/cnblogs_com/luxiang/318106/r_channel-sctv1.png" name="四川卫视" type="1" l="sichuan,sichuan">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100001400&amp;ostype=ios</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="甘肃" type="11">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-gansu1.png" name="甘肃卫视" type="1" l="gansu,gansu">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100100100&amp;ostype=ios</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        
+        <Channel name="福建" type="27">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-settv1.png" name="东南卫视" type="1" l="dongnan,dongnan">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=dongnan_350&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1004&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://photocdn.sohu.com/20130506/Img374940566.jpg" name="厦门卫视" type="1" l="xiamen,xiamen">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=xiamen&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1002&amp;tm=10&amp;format=2&amp;expect=3</streamURL>
+                <streamURL>http://113.207.58.12:5071/wtvlive/wasu/xiamen</streamURL>
+                <streamURL>http://gslb.tv.sohu.com/live?cid=6&amp;type=hls</streamURL>
+            </SubChannel>
+        </Channel>
+        <Channel name="吉林" type="40">
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/channel-jltv1.ico" name="吉林卫视" type="1" l="jilin,jilin">
+                <streamURL>http://livehls1-cnc.wasu.cn/201505051339/2e259ead3a7e4847ebc2edff2d2c3b42/jlws/z.m3u8</streamURL>
+                <streamURL>http://gslb.tv.sohu.com/live?cid=21&amp;type=hls</streamURL>
+            </SubChannel>
+        </Channel>
+        <Channel name="黑龙江" type="16">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-hljtv1.png" name="黑龙江卫视" type="1" l="heilongjiang,heilongjiang">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=heilongjiangHD_800&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1004&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="辽宁" type="18">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-liaoning1.png" name="辽宁卫视" type="1" l="liaoning,liaoning">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100105600&amp;ostype=ios</streamURL>
+            </SubChannel>
+        </Channel>
+        <Channel name="江西" type="17">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-cjxtv1.png" name="江西卫视" type="1" l="jiangxi,jiangxi">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=jiangxi_350&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1004&amp;format=2&amp;expect=3</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="湖北" type="15">
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/hubei.ico" name="湖北卫视" type="1" l="hubei,hubei">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100104800&amp;ostype=ios</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="广西" type="12">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-gxtv1.png" name="广西卫视" type="1" l="guangxi,guangxi">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100104000&amp;ostype=ios</streamURL>
+                
+            </SubChannel>
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-gxtv1.png" name="广西综艺" type="1" l="gxzy,gxzy">
+                
+                <streamURL>http://222.216.111.88:5000/nn_live.flv?id=1005</streamURL>
+            </SubChannel>
+        </Channel>
+        <Channel name="贵州" type="13">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-gzstv1.png" name="贵州卫视" type="1" l="guizhou,guizhou">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100102800&amp;ostype=ios</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="陕西" type="22">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-sxtvs1.png" name="陕西卫视" type="1" l="shan3xi,shan3xi">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100006400&amp;ostype=ios</streamURL>
+                <streamURL>http://gslb.tv.sohu.com/live?cid=20&amp;type=hls&amp;ctype=m3u8</streamURL>
+                <streamURL>http://113.207.58.12:5071/wtvlive/wasu/2shanxi</streamURL>
+            </SubChannel>
+        </Channel>
+        <Channel name="山西" type="21">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-shanxi1.png" name="山西卫视" type="1" l="shan1xi,shan1xi">
+                <streamURL ptag="1">http://219.232.160.132/applelive/792661187f8c524126d9f4e7037d2f25.m3u8</streamURL>
+                <streamURL>http://gslb.tv.sohu.com/live?cid=222617&amp;type=hls</streamURL>
+                <streamURL>http://113.207.58.12:5071/wtvlive/wasu/1shanxi</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="内蒙古" type="19">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-nntv1.png" name="内蒙古卫视" type="1" l="neimenggu,neimenggu">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100103800&amp;ostype=ios</streamURL>
+                <streamURL>http://113.207.58.12:5071/wtvlive/wasu/neimenggu</streamURL>
+                <streamURL>http://gslb.tv.sohu.com/live?cid=26&amp;type=hls</streamURL>
+            </SubChannel>
+        </Channel>
+        <Channel name="宁夏" type="20">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-nxtv1.png" name="宁夏卫视" type="1" l="ningxia,ningxia">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100001500&amp;ostype=ios</streamURL>
+                <streamURL>http://gslb.tv.sohu.com/live?cid=222620&amp;type=hls</streamURL>
+                <streamURL>http://113.207.58.12:5071/wtvlive/wasu/ningxia</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="西藏" type="24">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-xztv21.png" name="西藏卫视" type="1" l="xizang,xizang">
+                <streamURL>http://gslb.tv.sohu.com/live?cid=222625&amp;type=hls</streamURL>
+                <streamURL>http://113.207.58.12:5071/wtvlive/wasu/xizang</streamURL>
+                <streamURL>http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8</streamURL>
+                <streamURL>http://vapptime.cntv.wscdns.com/cache/164_/seg0/index.m3u8</streamURL>
+            </SubChannel>
+        </Channel>
+        <Channel name="云南" type="25">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-yntv1.png" name="云南卫视" type="1" l="yunnan,yunnan">
+                <streamURL>http://zb.v.qq.com:1863/?progid=100104400&amp;ostype=ios</streamURL>
+                <streamURL>http://113.207.58.12:5071/wtvlive/wasu/yunnan</streamURL>
+                <streamURL>http://gslb.tv.sohu.com/live?cid=17&amp;type=hls</streamURL>
+                <streamURL ptag="1">http://14.204.84.49:65532/live/yunnanweishi-sd/chunklist.m3u8</streamURL>
+            </SubChannel>
+        </Channel>
+        <Channel name="青海" type="29">
+            
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/qinghai.ico" name="青海卫视" type="1" l="qinghai,qinghai">
+                <streamURL>http://hlstest.imgo.tv/hvb1/index_512k.m3u8</streamURL>
+                <streamURL>http://zb.v.qq.com:1863/?progid=100101600&amp;ostype=ios</streamURL>
+                <streamURL>http://113.207.58.12:5071/wtvlive/wasu/qinghai</streamURL>
+                <streamURL>http://m.yuntutv.net/api/a/mghd.php?11</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="新疆" type="30">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-xinjiangtv1.png" name="新疆卫视" type="1" l="xinjiang,xinjiang">
+                <streamURL>http://gslb.tv.sohu.com/live?cid=5&amp;type=hls</streamURL>
+                <streamURL>http://113.207.58.12:5071/wtvlive/wasu/xinjiang</streamURL>
+            </SubChannel>
+            <SubChannel iconURL="http://files.cnblogs.com/luxiang/bintuanweishi.ico" name="兵团卫视" type="1" l="bingtuan,bingtuan">
+                <streamURL>http://220.170.192.155:80/live/5/30/6bda77778d8146689ace3363f6a4d207.m3u8?playback=0&amp;pre=ikan&amp;type=m3u8.web.pad</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="海南" type="31">
+            <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-travel1.png" name="旅游卫视" type="2" l="travel,travel">
+                <streamURL ptag="3">http://live.gslb.letv.com/gslb?stream_id=lvyou&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1002&amp;tm=10&amp;format=2&amp;expect=3</streamURL>
+                <streamURL>http://gslb.tv.sohu.com/live?cid=222613&amp;type=hls</streamURL>
+                <streamURL ptag="1">http://14.204.84.49:65532/live/lvyouweishi-sd/chunklist.m3u8</streamURL>
+                <streamURL ptag="3">http://vdn.apps.cntv.cn/api2/liveHtml5.do?channel=pa://cctv_p2p_hdtravel</streamURL>
+            </SubChannel>
+        </Channel>
+        
+        <Channel name="电子游戏" type="32">
+            <SubChannel iconURL="http://photo.hanyu.iciba.com/upload/encyclopedia_2/e1/51/bk_e15122403d5aca361a6b63ddea292464_RyKDJ6.jpg" name="游戏竞技" type="4" l=",youxijingji">
+                <streamURL>http://gslb.tv.sohu.com/live?cid=219394&amp;type=hls</streamURL>
+                <streamURL>http://60.19.18.226/iPhone/32/prog_index.m3u8</streamURL>
+            </SubChannel>
+        </Channel>
+    </Channels>
